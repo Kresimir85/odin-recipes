@@ -1,0 +1,2 @@
+This is my first project in The Odin project curriculum.
+First project is about how to start creating webpage and how to navigate with HTML basic tags and attributes. That means how to use anchor tag for links, image tag for images, different headings, paragraphs and ordered and unordered list. Also how to use href, src or alt attribute.
